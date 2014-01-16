@@ -17,8 +17,9 @@ header{
 section{
 	width: 960px;
 	height: 600px;
-	background-color: #ff634e;
 }
 footer{
-
+	width: 960px;
+	height: 30px;
+	background-color: #45ff41;
 }
