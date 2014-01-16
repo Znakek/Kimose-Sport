@@ -17,7 +17,7 @@
 <div id="wrapper">
 
 	<header>
-		<h1>Velkommen til Kimose Sport</h1>
+		<h1>Kimose Sport</h1>
 	</header>
 
 	<nav>
