@@ -23,14 +23,12 @@
 	</nav>
 
 	<section>
-		
-
-
+	
+		<article>
+			
+		</article>		
 
 	</section>
-
-
-
 
 	<footer>
 		
