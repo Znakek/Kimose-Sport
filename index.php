@@ -13,17 +13,11 @@
 <body>
 
 <div id="wrapper">
-	jbhubhutimmy Her er en ændring til!!!
-    idjbvsiugrfbwepiobnqwepi
+
+	
+
+
 </div>
-
-
-
-
-
-
-
-
 
 
 </body>
