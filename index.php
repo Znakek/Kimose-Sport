@@ -11,6 +11,8 @@
   <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
+	<img id="pude_left" src="img/main/pude_left.jpg" alt="pude_left">
+	<img id="pude_right" src="img/main/pude_right.jpg" alt="pude_right">
 
 <div id="wrapper">
 
