@@ -1,0 +1,818 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"br",
+				"bruger_user_id"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"ro",
+				"row_current"
+			],
+			[
+				"bru",
+				"bruger_rank"
+			],
+			[
+				"hifi_",
+				"hifi_kontakt_id"
+			],
+			[
+				"req",
+				"req1	require_once …"
+			],
+			[
+				"hifi_prod",
+				"hifi_produkter"
+			],
+			[
+				"pro",
+				"producent_id"
+			],
+			[
+				"pr",
+				"produkt_id"
+			],
+			[
+				"row",
+				"row_current_produkt_kategori"
+			],
+			[
+				"hifi_produkt",
+				"hifi_produkt_id"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"rank",
+				"rank_list"
+			],
+			[
+				"sl",
+				"sql2"
+			],
+			[
+				"sql",
+				"sql2"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"hifi_pro",
+				"hifi_producent_fk"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"quer",
+				"query_select"
+			],
+			[
+				"hifi",
+				"hifi_producent_id"
+			],
+			[
+				"hifi_producent",
+				"hifi_producent_id"
+			],
+			[
+				"nav",
+				"navn_kat"
+			],
+			[
+				"hifi_k",
+				"hifi_kategori_id"
+			],
+			[
+				"hifi_kategori",
+				"hifi_kategori_navn"
+			],
+			[
+				"result",
+				"result_inner"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"error_e",
+				"error_email"
+			],
+			[
+				"error_b",
+				"error_by_navn"
+			],
+			[
+				"err",
+				"error_fornavn"
+			],
+			[
+				"mysqli_re",
+				"mysqli_real_escape_string"
+			],
+			[
+				"for",
+				"fornavn"
+			],
+			[
+				"portfolio_",
+				"portfolio_sites_img"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_array"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ul",
+				"ul"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mysql_fetch_a",
+				"mysql_fetch_assoc"
+			],
+			[
+				"admin",
+				"administrator"
+			],
+			[
+				"session",
+				"session_start"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"fe",
+				"Fetch: File"
+			],
+			[
+				"syn css",
+				"Set Syntax: CSS"
+			],
+			[
+				"snip",
+				"Snippet: HTML - Image"
+			],
+			[
+				"snip php",
+				"Snippet: HTML - Lorem Ipsum"
+			],
+			[
+				"snip ",
+				"Snippet: html"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"insp",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"set jv",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sni",
+				"Snippet: <?php … ?>"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Znake/Desktop/Dev/Kimose-Sport/Kimose-Sport/index.php",
+		"/Users/Znake/Desktop/Dev/Kimose-Sport/index.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/rediger/ret_kategori.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/rediger/ret_producent.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/search.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/include/right.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/rediger/rediger_footer.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/rediger/slet_producent.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/include/nav.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/rediger/ret_produkt.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/rediger/bruger.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/indsaet/indsaet_bruger.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/indsaet/indsaet_produkt.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/indsaet/indsaet_footer.php",
+		"/Users/Znake/Library/Application Support/Sublime Text 2/Packages/User/FTPSync.sublime-settings",
+		"/Users/Znake/Library/Application Support/Sublime Text 2/Packages/FTPSync/FTPSync.sublime-settings",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/include/left.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/include/footer.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/include/header.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/include/kontakt_validate.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/include/produkter.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/functions.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/rediger/slet_besked.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/rediger/slet_bruger.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/rediger/slet_produkt.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/administrator.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/beskeder.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/indsaet/gem_produkt.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/kontakt.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/index.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/include/connect.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/rediger/slet_kategori.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/css/tekst.css",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/login/login.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/login/check_login.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/login/log_ud.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/css/opsaetning.css",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/indsaet/indsaet_producent.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/indsaet/indsaet_kategori.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/indsaet/gem_producent.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/tekst.html",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/indsaet/gem_kategori.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/login/check_if_logged_in.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/indsaet/img_upload.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/cdafspillere.php",
+		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/tekst.thml",
+		"/Users/Znake/Desktop/Dev/porto/Site/php/contact_script.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/php/contact-form.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/js/views/view.home.js",
+		"/Users/Znake/Desktop/Dev/porto/Site/js/views/view.contact.js",
+		"/Users/Znake/Desktop/Dev/porto/Site/portfolio.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/connect.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/start.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/php/include/header.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/indsaet/blog/gem_blog.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/rediger/portfolio/ret_portfolio.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/rediger/blog/ret_blog.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/rediger/blog/slet_blog.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/rediger/portfolio/slet_portfolio.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/blog.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/indsaet/blog/indsaet_blog.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/indsaet/blog/img_upload_blog.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/indsaet/portfolio/img_upload_portfolio.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/rediger/forside/list_forside.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/index.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/rediger/portfolio/ret_form.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/rediger/blog/ret_form_blog.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/kontakt_mig.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/omkring_mig.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/php/include/footer.php",
+		"/Users/Znake/Desktop/Dev/porto orginal/HTML/index-slider-2.html",
+		"/Users/Znake/Desktop/Dev/porto orginal/HTML/index.html",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/indsaet/portfolio/gem_portfolio.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/indsaet/portfolio/indsaet_portfolio.php",
+		"/Users/Znake/Desktop/Dev/porto orginal/HTML/portfolio-3-columns.html",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/rediger/portfolio/list_portfolio.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/rediger/blog/list_blog.php",
+		"/Users/Znake/Downloads/eks_admin_v2/Site/admin/admin_hold_liste.php",
+		"/Users/Znake/Downloads/eks_admin_v2/Site/admin/admin_hold_slet.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/login/logud.php",
+		"/Users/Znake/Desktop/Dev/porto/admin/login/check_if_logged_in.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/indsaet/gem_portfolio.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/indsaet/img_upload_portfolio.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/login/check_login.php",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/indsaet/indsaet_portfolio.php",
+		"/Users/Znake/Desktop/Dev/porto orginal/HTML/index-2.html",
+		"/Users/Znake/Desktop/Dev/porto orginal/HTML/page-left-sidebar.html",
+		"/Users/Znake/Desktop/Dev/porto orginal/HTML/feature-elements.html",
+		"/Users/Znake/Desktop/Dev/porto/Site/admin/admin_menu.php",
+		"/Users/Znake/Desktop/admin eks/eks_login_del2/site/index.php",
+		"/Users/Znake/Desktop/admin eks/eks_login_del2/site/admin/admin.php",
+		"/Users/Znake/Desktop/admin eks/eks_login_del2/site/admin/logud.php",
+		"/Users/Znake/Desktop/admin eks/eks_login_del2/site/include/db_connect.php",
+		"/Users/Znake/Desktop/Dev/porto orginal/HTML/contact-us-2.html",
+		"/Users/Znake/Desktop/Dev/porto orginal/HTML/contact-us.html",
+		"/Users/Znake/Desktop/Dev/porto/Site/sitemap.php",
+		"/Users/Znake/Desktop/Dev/porto/admin.php",
+		"/Users/Znake/Desktop/Dev/porto/omkring_mig.php",
+		"/Users/Znake/Desktop/Dev/porto/portfolio.php",
+		"/Users/Znake/Desktop/Dev/porto/kontakt_mig.php",
+		"/Users/Znake/Desktop/Dev/porto/blog.php",
+		"/Users/Znake/Desktop/Dev/porto/index.php",
+		"/Users/Znake/Desktop/Dev/porto/php/include/footer.php",
+		"/Users/Znake/Desktop/Dev/porto/php/include/header.php",
+		"/Users/Znake/Desktop/Dev/porto/page-careers.php",
+		"/Users/Znake/Desktop/Dev/porto/page-custom-header.php",
+		"/Users/Znake/Library/Application Support/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/Znake/Desktop/Dev/porto/page-404.php",
+		"/Users/Znake/Desktop/Dev/porto/vendor/selectnav.js",
+		"/Users/Znake/Desktop/Dev/porto/php/contact-form.php",
+		"/Users/Znake/Desktop/Dev/porto/master/less/skin.less",
+		"/Users/Znake/Desktop/Dev/porto orginal/HTML/feature-icons.html",
+		"/Users/Znake/Desktop/Dev/porto/search-results.php",
+		"/Users/Znake/Desktop/Dev/porto/php/newsletter-subscribe.php",
+		"/Users/Znake/Desktop/Dev/porto/php/php-mailer/class.phpmailer.php",
+		"/Users/Znake/Desktop/Dev/porto/sitemap.php",
+		"/Users/Znake/Desktop/Dev/porto/css/theme.css",
+		"/Users/Znake/Desktop/Dev/porto/css/custom.css",
+		"/Users/Znake/Desktop/Dev/porto/php/header.php",
+		"/Users/Znake/Library/Application Support/Sublime Text 2/Packages/User/include",
+		"/Users/Znake/Desktop/Dev/porto/php/nav.php",
+		"/Users/Znake/Desktop/Dev/porto/php/search.php",
+		"/Users/Znake/Desktop/Dev/porto/php/head.php",
+		"/Users/Znake/Desktop/Dev/porto/page-left-sidebar.html",
+		"/Users/Znake/Desktop/Dev/porto/page-search-results.html",
+		"/Users/Znake/Desktop/Dev/znake_dk_selvudviklet/php/connect.php",
+		"/Users/Znake/Desktop/Dev/znake_dk_selvudviklet/admin/indsaet/img_upload.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"by_navn",
+			"er",
+			"postnr",
+			"kategori",
+			"Kategori",
+			"kategori",
+			"Kategori",
+			"kategori",
+			"Kategori",
+			"kategori",
+			"Kategori",
+			"php",
+			"producent",
+			"hifi_producent_id",
+			"hifi_kontakt_navn",
+			"hifi_kontakt_id",
+			"hifi_kategori_fk",
+			"submit_footer",
+			"_current",
+			"_producent",
+			"hifi_produkt_producent_fk_id",
+			"hifi_produkt_kategori_fk_id",
+			"hifi_produkt_pris",
+			"hifi_produkt_information",
+			"hifi_produkt_kategori_fk_id",
+			"hifi_produkt_producent_fk_id",
+			"hifi_produkt_pris",
+			"hifi_produkt_information",
+			"hifi_produkt_navn",
+			"kategori",
+			"Kategori",
+			"kategori",
+			"$id",
+			"producent",
+			"_producent ",
+			"$row_current_produkt_",
+			"hifi_produkt_producent_fk_id",
+			"_producent",
+			"_current_producent",
+			"_producent",
+			"$id",
+			"row_producent",
+			"_producent",
+			"hifi_produkt_img_ret",
+			"hifi_produkt_producent_fk_id_ret",
+			"hifi_produkt_kategori_fk_id_ret",
+			"hifi_produkt_pris_ret",
+			"hifi_produkt_information_ret",
+			"hifi_produkt_navn_ret",
+			"$onclick",
+			"hifi_produkt_pris",
+			"hifi_produkt_kategori_fk_id",
+			"hifi_produkt_pris",
+			"hifi_produkt_information",
+			"hifi_produkt_information_ret",
+			"hifi_produkt_navn_ret",
+			"hifi_produkt_information",
+			"fulde_navn",
+			"user_pass",
+			"user_name",
+			"user_admin",
+			"fulde_navn_ret",
+			"submit_ret_bruger",
+			"echo \"<td>$row_bruger[user_id]</td>\";",
+			"$result",
+			">\";\n",
+			"user_id",
+			"$antal",
+			"$result",
+			"$query",
+			"$produkt",
+			"produkt",
+			"find",
+			"Find",
+			"find",
+			"	 <?php \ninclude 'admin/login/check_if_logged_in.php';\n\n		if (isset($_POST['submit1'])) {\n		        	\n					$id=$_POST['hifi_producent_id'];\n					$query_select = \"SELECT * FROM hifi_producent_fk WHERE hifi_producent_id=$id\";\n					$res=mysqli_query($db_link, $query_select);\n					$row=mysqli_fetch_assoc($res);\n\n					mysqli_query($db_link, \"DELETE FROM hifi_producent_fk WHERE hifi_producent_id=$id\");\n\n					// header('Refresh: 1; URL=index.php');\n					header('Location: index.php');\n				\n					// echo \"<strong>Producenten er slettet, og du vil blive sendt til tilbage om et øjeblik.</strong>\";\n\n		        }\n\n		$query = \"SELECT * FROM hifi_producent_fk ORDER BY hifi_producent_navn ASC\";\n		$result = mysqli_query($db_link, $query);\n		$antal = mysqli_num_rows ($result);\n\n\n			?>\n\n			<form method=\"post\" action=\"\">\n				<label>Slet producent:\n			        <select name=\"hifi_producent_id\">\n\n			        <?php \n						if ($antal > 0){\n\n							while ($row_producent = mysqli_fetch_assoc ($result)) \n							{\n							echo \"<option value='$row_producent[hifi_producent_id]'>$row_producent[hifi_producent_navn]</option>\";\n\n							}\n\n			            };  \n\n			         ?>\n\n			        </select>\n		    	</label>\n			<input type=\"submit\" name=\"submit1\" value=\"Slet\" onclick=\"return confirm('Sikker på du vil slette denne?')\" />\n		    </form>\n\n		        ",
+			"1",
+			"row_table_lokaler",
+			"5px",
+			"bruger",
+			"produkt",
+			"galleri",
+			"billede_upload_result",
+			"billede_upload_sql",
+			"_producent",
+			"=\"\"></",
+			"tlf",
+			"email",
+			"by_navn",
+			"adresse",
+			"postnr",
+			"efternavn",
+			"fornavn",
+			"mysqli_real_escape_string (",
+			"firstNameErr",
+			"tlf",
+			"email",
+			"Email",
+			"email",
+			"by_navn",
+			"postnr",
+			"tlf",
+			"email",
+			"by_navn",
+			"postnr",
+			"adresse",
+			"index",
+			"navn",
+			"besked",
+			"lorem100",
+			"	$",
+			"ntet_billede",
+			"intet_billede",
+			"row_hjem_indledning",
+			"portfolio_id",
+			"portfolio_sites_navn",
+			"row",
+			"blog_post_meta_mere_link",
+			"blog_post_overskrift",
+			"portfolio",
+			"portfolio_sites_type",
+			"portfolio_sites_navn",
+			"blog_post_overskrift",
+			"blog_post_meta_tag",
+			"blog_post_overskrift",
+			"blog_post_meta_bruger",
+			"blog_post_overskrift",
+			"portfolio_sites_link"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			".php",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"retpro",
+				"admin/rediger/ret_produkt.php"
+			],
+			[
+				"ad",
+				"admin/administrator.php"
+			],
+			[
+				"righ",
+				"include/right.php"
+			],
+			[
+				"ser",
+				"search.php"
+			],
+			[
+				"vai",
+				"include/kontakt_validate.php"
+			],
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"pro",
+				"include/produkter.php"
+			],
+			[
+				"co",
+				"include/connect.php"
+			],
+			[
+				"login",
+				"admin/login/login.php"
+			],
+			[
+				"s",
+				"search.php"
+			],
+			[
+				"lo",
+				"admin/login/login.php"
+			],
+			[
+				"va",
+				"include/kontakt_validate.php"
+			],
+			[
+				"kon",
+				"kontakt.php"
+			],
+			[
+				"sl",
+				"admin/rediger/slet_bruger.php"
+			],
+			[
+				"sea",
+				"search.php"
+			],
+			[
+				"",
+				"admin/login/check_login.php"
+			],
+			[
+				"val",
+				"include/kontakt_validate.php"
+			],
+			[
+				"che",
+				"admin/login/check_login.php"
+			],
+			[
+				"log",
+				"admin/login/login.php"
+			],
+			[
+				"te",
+				"tekst.html"
+			],
+			[
+				"inds",
+				"admin/indsaet/indsaet_kategori.php"
+			],
+			[
+				"gem_pr",
+				"admin/indsaet/gem_produkt.php"
+			],
+			[
+				"foo",
+				"include/footer.php"
+			],
+			[
+				"rig",
+				"include/right.php"
+			],
+			[
+				"pr",
+				"include/produkter.php"
+			],
+			[
+				"ko",
+				"kontakt.php"
+			],
+			[
+				"conn",
+				"include/connect.php"
+			],
+			[
+				"con",
+				"Site/admin/connect.php"
+			],
+			[
+				"selectnav",
+				"vendor/selectnav.js"
+			],
+			[
+				"nav",
+				"php/nav.php"
+			],
+			[
+				"lis",
+				"php/list.php"
+			],
+			[
+				"gem",
+				"admin/indsaet/gem.php"
+			],
+			[
+				"admini",
+				"admin/administrator.php"
+			],
+			[
+				"sle",
+				"admin/rediger/slet.php"
+			],
+			[
+				"red",
+				"admin/rediger/rediger_liste.php"
+			],
+			[
+				"ret",
+				"admin/rediger/ret.php"
+			],
+			[
+				"main",
+				"css/main.css"
+			],
+			[
+				"list",
+				"php/list.php"
+			],
+			[
+				"inex",
+				"index.php"
+			],
+			[
+				"ge",
+				"admin/indsaet/gem.php"
+			],
+			[
+				"inde",
+				"index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Skole_1/Webintegration2_del1/webintegration/webintegration.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 184.0,
+	"status_bar_visible": true
+}
