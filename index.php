@@ -8,7 +8,7 @@
   <meta name="description" content="Boksning">
   <meta name="author" content="Kimose_Sport">
 
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
+  <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
 
