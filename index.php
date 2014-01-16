@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="css/main.css">
 </head>
 <body> 
-	<div id="header">logo</div>
+	<div id="header"><img class="logo" src="img/main/Kimose-logo.png"></div>
 	<div id="img_body">
 	<img id="pude_left" src="img/main/pude_left.jpg" alt="pude_left">
 	<img id="pude_right" src="img/main/pude_right.jpg" alt="pude_right">
@@ -33,15 +33,14 @@
 			
 		</article>		
 
-	</section>
-<div id="clear"></div>
+<footer>
+		<address>Timmy Kimose - Kimose Sport - Denmark</address>
+	</footer>
 
 
 
 </div>
-	<footer>
-		<address>Timmy Kimose - Kimose Sport - Denmark</address>
-	</footer>
+	
 
 
 </body>

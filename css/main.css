@@ -7,9 +7,14 @@ body{
 	/*background-color: #6f92ff;*/
 }
 body #header {
+	background:#000;
 	height:200px;
-	text-align:center;
 	position:relative;}
+	
+body #header .logo {
+	margin-left:120px;
+	top:50px;
+	position:fixed;}	
 
 #img_body {
 	position:fixed;
@@ -35,7 +40,7 @@ section{
 	float: left;
 }
 footer{
-	margin-left:350px;
+	clear:both;
 	width: 960px;
 	height: 25px;
 	padding-top: 5px;
@@ -47,13 +52,13 @@ footer{
 
 #pude_left{
 
-	width: 381px;
+	width: 385px;
 	height: 500px;
 }
 #pude_right{
 
-	margin-left:966px;
-	width: 380px;
+	margin-left:970px;
+	width: 381px;
 	height: 500px;
 
 }
