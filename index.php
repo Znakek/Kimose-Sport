@@ -14,7 +14,27 @@
 
 <div id="wrapper">
 
-	fr
+	<header>
+		
+	</header>
+
+	<nav>
+		
+	</nav>
+
+	<section>
+		
+
+
+
+	</section>
+
+
+
+
+	<footer>
+		
+	</footer>
 
 
 </div>
