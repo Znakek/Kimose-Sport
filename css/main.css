@@ -9,12 +9,15 @@ body{
 
 #wrapper{
 	width: 960px;
+	margin: 10px auto 10px auto;
 }
 header{
-
+	text-align: center;
 }
 section{
-
+	width: 960px;
+	height: 600px;
+	background-color: #ff634e;
 }
 footer{
 
