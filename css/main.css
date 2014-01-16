@@ -34,11 +34,19 @@ header{
 	float: left;
 }
 section{
-	width: 960px;
-	min-height: 500px;
+	width: 700px;
+	min-height:500px;
 	height:auto;
 	float: left;
 }
+
+nav {
+	margin-left:20px;
+	float:left;
+	width:200px;
+	min-height:300px;
+	height:auto;
+	}
 footer{
 	clear:both;
 	width: 960px;
@@ -62,3 +70,5 @@ footer{
 	height: 500px;
 
 }
+h2 {
+	text-align:center;}

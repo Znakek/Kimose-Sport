@@ -24,13 +24,15 @@
 	</header>
 
 	<nav>
+    <ul><li><a href="index.php">forside</a></li></ul>
 		
 	</nav>
 
 	<section>
+    	<h2>Produkter</h2>
 	
 		<article>
-			
+		
 		</article>		
 
 <footer>
