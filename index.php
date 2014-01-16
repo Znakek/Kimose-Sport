@@ -31,7 +31,7 @@
 	</section>
 
 	<footer>
-		
+		<address>Timmy Kimose - Kimose Sport - Denmark</address>
 	</footer>
 
 

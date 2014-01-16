@@ -12,15 +12,21 @@ body{
 	margin: 10px auto 10px auto;
 }
 header{
+	width: 960px;
+	height: 70px;
+	padding-top: 30px;
 	text-align: center;
+	background-color: #45ff41;
 }
 section{
 	width: 960px;
-	height: 600px;
+	height: 500px;
 	background-color: #ff634e;
 }
 footer{
 	width: 960px;
-	height: 30px;
+	height: 25px;
+	padding-top: 5px;
 	background-color: #45ff41;
+	text-align: center;
 }
