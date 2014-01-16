@@ -10,9 +10,12 @@
 
   <link rel="stylesheet" href="css/main.css">
 </head>
-<body>
+<body> 
+	<div id="header">logo</div>
+	<div id="img_body">
 	<img id="pude_left" src="img/main/pude_left.jpg" alt="pude_left">
 	<img id="pude_right" src="img/main/pude_right.jpg" alt="pude_right">
+	</div>
 
 <div id="wrapper">
 
@@ -31,13 +34,14 @@
 		</article>		
 
 	</section>
+<div id="clear"></div>
 
-	<footer>
-		<address>Timmy Kimose - Kimose Sport - Denmark</address>
-	</footer>
 
 
 </div>
+	<footer>
+		<address>Timmy Kimose - Kimose Sport - Denmark</address>
+	</footer>
 
 
 </body>
