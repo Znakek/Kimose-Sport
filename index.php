@@ -33,9 +33,11 @@
 	
 		<article>
 		
-		</article>		
+		</article>
+    
+    </section>    		
 
-<footer>
+	<footer>
 		<address>Timmy Kimose - Kimose Sport - Denmark</address>
 	</footer>
 

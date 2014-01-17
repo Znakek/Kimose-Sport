@@ -23,8 +23,8 @@ body #header .logo {
 #wrapper{
 	box-shadow:1px 5px 5px 5px #000;
 	width: 960px;
-	height:600px;
-	margin: 30px auto 10px auto;
+	height:650px;
+	margin: 0px auto 10px auto;
 }
 header{
 	width: 960px;
@@ -35,12 +35,12 @@ header{
 }
 section{
 	width: 700px;
-	min-height:500px;
-	height:auto;
+	height:520px;
 	float: left;
 }
 
 nav {
+	box-shadow:1px 5px 5px 5px #000;
 	margin-left:20px;
 	float:left;
 	width:200px;
@@ -60,15 +60,24 @@ footer{
 
 #pude_left{
 
-	width: 385px;
+	width: 388px;
 	height: 500px;
 }
 #pude_right{
 
-	margin-left:970px;
-	width: 381px;
+	margin-left:967px;
+	width: 385px;
 	height: 500px;
 
 }
 h2 {
 	text-align:center;}
+	
+
+nav a {
+	text-decoration:none;}	
+nav li {
+	list-style-type:none;
+	text-align:center;} 	
+nav ul {
+	margin-top:10px;}	
