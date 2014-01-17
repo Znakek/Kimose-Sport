@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"p",
+				"padding"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
 				"br",
 				"bruger_user_id"
 			],
@@ -112,10 +120,6 @@
 				"background-color"
 			],
 			[
-				"te",
-				"text-decoration"
-			],
-			[
 				"max",
 				"max-height"
 			],
@@ -203,6 +207,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 653,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 877,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -292,6 +312,8 @@
 	},
 	"file_history":
 	[
+		"/Users/Znake/Desktop/Dev/GitHub/Kimose-Sport/nymappe/tester.php",
+		"/Users/Znake/Desktop/Dev/GitHub/Kimose-Sport/ny mappe",
 		"/Users/Znake/Desktop/Dev/Kimose-Sport/Kimose-Sport/index.php",
 		"/Users/Znake/Desktop/Dev/Kimose-Sport/index.php",
 		"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi_netbutik/admin/rediger/ret_kategori.php",
@@ -417,9 +439,7 @@
 		"/Users/Znake/Desktop/Dev/porto/php/search.php",
 		"/Users/Znake/Desktop/Dev/porto/php/head.php",
 		"/Users/Znake/Desktop/Dev/porto/page-left-sidebar.html",
-		"/Users/Znake/Desktop/Dev/porto/page-search-results.html",
-		"/Users/Znake/Desktop/Dev/znake_dk_selvudviklet/php/connect.php",
-		"/Users/Znake/Desktop/Dev/znake_dk_selvudviklet/admin/indsaet/img_upload.php"
+		"/Users/Znake/Desktop/Dev/porto/page-search-results.html"
 	],
 	"find":
 	{
@@ -437,6 +457,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"color",
 			"by_navn",
 			"er",
 			"postnr",
@@ -563,8 +584,7 @@
 			"blog_post_meta_tag",
 			"blog_post_overskrift",
 			"blog_post_meta_bruger",
-			"blog_post_overskrift",
-			"portfolio_sites_link"
+			"blog_post_overskrift"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -584,8 +604,61 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 653,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								388,
+								252
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/main.css",
+					"settings":
+					{
+						"buffer_size": 877,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 5.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -804,7 +877,7 @@
 		[
 			[
 				"",
-				"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Skole_1/Webintegration2_del1/webintegration/webintegration.sublime-project"
+				"/Users/Znake/Desktop/Dev/Elev_htdocs_filstruktur/RTS/HF/Praktik_1/Produktkatalog/hifi.sublime-project"
 			]
 		],
 		"width": 380.0
